@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RScelestial"]
+	path = RScelestial
+	url = https://github.com/cran/RScelestial
+	shallow = true
+	registered = true
